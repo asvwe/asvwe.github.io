@@ -476,3 +476,5 @@ images: images
 
 # Theme version
 version: 5.1.0
+
+theme: jekyll-theme-cayman
